@@ -122,7 +122,7 @@ Section 2 - Developers
 27. MN
 28. HP
 29. VKP
-30. SP
+30. [Swarupa Pedapalli](https://github.com/SwarupaPedapalli)
 31. RR
 32. GSS
 33. SS
